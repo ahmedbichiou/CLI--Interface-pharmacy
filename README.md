@@ -50,7 +50,12 @@ The system uses a dynamic 3-level structure:
   - `tab_recette` (revenue records)
     - `tab_facture` (invoices)
       - `tab_produit` (products)
-![image](https://github.com/user-attachments/assets/dbbed233-5c6b-4e89-8c5f-e97ac9077eaf)
+
+
+   ![image](https://github.com/user-attachments/assets/dbbed233-5c6b-4e89-8c5f-e97ac9077eaf)
+
+
+  
 ### Additional Structures:
 
 - **Date Structure**
