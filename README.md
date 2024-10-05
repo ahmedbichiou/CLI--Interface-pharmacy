@@ -10,10 +10,6 @@ The Pharmacy Management System aims to streamline the management of pharmacy ope
 2. [Treatment Descriptions](#treatment-descriptions)
 3. [Data Structures](#data-structures)
 4. [Functionality](#functionality)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributors](#contributors)
-8. [License](#license)
 
 ## General Description
 
@@ -26,7 +22,7 @@ The project focuses on managing pharmacy operations, including:
 - Invoice Management:
   - Creating new invoices
   - Displaying invoice details
-
+![image](https://github.com/user-attachments/assets/dbbed233-5c6b-4e89-8c5f-e97ac9077eaf)
 ## Treatment Descriptions
 
 ### Treatment 1: Gains and Losses of the Pharmacy
